@@ -45,7 +45,7 @@ PRODUCT_PACKAGES += \
     libshim_camera
 
 # CustomDoze
-RODUCT_PACKAGES += \
+PRODUCT_PACKAGES += \
     CustomDoze
 
 # Device uses high-density artwork where available
